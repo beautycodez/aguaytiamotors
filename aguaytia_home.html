@@ -4,37 +4,47 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aguaytia Motors</title>
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/small.css">
 </head>
 <body>
-    <header>
-        <picture>
-            <img src="images/logo_aguaytia.jpg" alt="Logo Aguaytia Motors">
-        </picture>
-        <nav>
-            <ul>
-                <li>Catálogo de Productos</li>
-                <li>Información de Contacto</li>
-                <li>Acerca de Nosotros</li>
+    <picture>
+        <a href="https://wa.me/51933814592?text=Hola!%20Quisiera%20más%20información">
+            <img src="images/whatsapp_icon.png" alt="what's app icon" class="whatsApp">
+        </a>
+    </picture>
 
-            </ul>
-        </nav>
+    <header>
+        
+        <picture class="logo">
+            <img src="images/logo_aguaytia.jpg" alt="Logo Aguaytia Motors" >
+        </picture>
+        <button id="hamburgerBtn">&#9776</button>
     </header>
+    <nav class="navBar">
+        <ul id="primaryNav">
+            <li><a href="">Catálogo de Productos</a></li>
+            <li><a href="">Información de Contacto</a></li>
+            <li><a href="">Acerca de Nosotros</a></li>
+        </ul>
+    </nav>
+
     <main>
-        <div>
-            <picture>
+        <div class="hero">
+            <picture class="hero_picture">
                 <img src="images/hero_mecanica.webp" alt="Imagen de mecánica de autos">
             </picture>
             <section>
-                <h1>
-                    Taller multimarca expertos en mecánica automotriz, pasión por el rendimiento.
-                    Somos el combustible de tu tranquilidad: servicio confiable y honesto.
-                </h1>
-                <button>Cotiza ahora!</button>
+                <h3>
+                    Taller Multimarca <br> <span>Pasión por el rendimiento y calidad.</span>
+                    Servicio Confiable y Honesto.
+                </h3>
+                <button>Cotiza Aquí</button>
             </section>
         </div>
 
         <article>
-            <h1>Nuestras marcas</h1>20
+            <h1>Nuestras marcas de Aceite</h1>
             <div class="imagenes_marca">
                 <picture>
                     <img src="images/castrol_logo_223.webp" alt="Castrol Logo">
@@ -56,11 +66,32 @@
                 </picture>
             </div>
         </article>
-
-        <section class="productos">
+        <div>
+            <h1>Nuestro Increíble Catálogo</h1>
+            <label class="top">Filtrar por clase de producto
+                <select id="select-product" class="select" name="product" required onchange="filtrarProductos()">
+                        <option value="" disabled selected hidden>Please Select &#9662</option>
+                </select>
+            </label>
             
-        </section>
+            <section class="productos">
+                
+            </section>
+        </div>
+        
     </main>
+
+    <footer>
+        <div class="footerPhone">
+            <p>Número telefónico: 933814592</p>
+        </div>
+        <div class="footerAddress">
+            <p>Dirección del taller: Av. Procederes de la Independencia 3479 SJL.</p>
+        </div>
+        <div class="atencion">
+            <p>Abierto: De 9am - 6pm de Lunes a Sábado</p>
+        </div>
+    </footer>
     
     
 </body>
