@@ -78,6 +78,9 @@ header button {
     border-radius: 20%;
     margin-left: 20px;
 }
+main {
+    background-color: white;
+}
 .hero_picture {
     width: 100%;
 }
@@ -107,7 +110,7 @@ header button {
 #hamburgerBtn {
     width: fit-content;
     border: none;
-    background-color: #E9190F;
+    background-color: none;
     padding: 10px;
     margin: 10px;
     border-radius: 10%;
@@ -183,7 +186,7 @@ header button {
   .text {
     color: #f2f2f2;
     font-size: 15px;
-    padding: 8px 12px;
+    /* padding: 8px 12px; */
     position: absolute;
     bottom: 8px;
     width: 100%;
