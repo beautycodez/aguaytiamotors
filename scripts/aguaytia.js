@@ -1,7 +1,7 @@
 
 const productSection = document.querySelector(".productos");
 
-const url = "https://beautycodez.github.io/aguaytiamotors/data/data.json"
+const url = "https://beautycodez.github.io/aguaytiamotors/data/data2.json"
 let productData = []
 
 async function apiFetch() {
