@@ -1,0 +1,96 @@
+{
+    "productos": [
+      {
+        "numero": "BG-01",
+        "nombre": "Bomba de gasolina",
+        "marca": "UNIVERSAL (PICO LISO)"
+      },
+      {
+        "numero": "BG-02",
+        "nombre": "Bomba de gasolina",
+        "marca": "UNIVERSAL (PICO CORRUGADO)"
+      },
+      {
+        "numero": "BG-03",
+        "nombre": "Bomba de gasolina",
+        "marca": "TOYOTA YARIS CON PICO"
+      },
+      {
+        "numero": "BG-04",
+        "nombre": "Bomba de gasolina",
+        "marca": "TOYOTA YARIS SIN PICO"
+      },
+      {
+        "numero": "BG-05",
+        "nombre": "Bomba de gasolina",
+        "marca": "KIA RIO"
+      },
+      {
+        "numero": "BG-06",
+        "nombre": "Bomba de gasolina",
+        "marca": "UNIVERSAL EXTERNA"
+      },
+      {
+        "numero": "BG-07",
+        "nombre": "Bomba de gasolina",
+        "marca": "NISSAN TIIDA"
+      },
+      {
+        "numero": "BG-08",
+        "nombre": "Bomba de gasolina",
+        "marca": "NISSAN VERSA"
+      },
+      {
+        "numero": "BG-09",
+        "nombre": "Bomba de gasolina",
+        "marca": "NISSAN SENTRA (CARBURADO)"
+      },
+      {
+        "numero": "BG-10",
+        "nombre": "Bomba de gasolina",
+        "marca": "CHEVROLET SPARK"
+      },
+      {
+       
+  "numero": 11,
+  "nombre": 12,
+  "marca": 13
+  },
+  {
+  "numero": 14,
+  "nombre": 15,
+  "marca": 16
+  },
+  {
+  "numero": 17,
+  "nombre": 18,
+  "marca": 19
+  },
+  {
+  "numero": 20,
+  "nombre": 21,
+  "marca": 22
+  },
+  {
+  "numero": 23,
+  "nombre": 24,
+  "marca": 25
+  },
+  {
+  "numero": 26,
+  "nombre": 27,
+  "marca": 28
+  },
+  {
+  "numero": 29,
+  "nombre": 30,
+  "marca": 31
+  },
+  {
+  "numero": 32,
+  "nombre":"Bomba de gasolina",
+  "marca":"CARROS CHINOS"
+  }
+  ]
+  }
+  
