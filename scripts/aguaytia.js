@@ -96,16 +96,78 @@ function displayName(data) {
 
 // -----------------------------------------------------------filtrar los productos por nombre---------------------
 function filtrarProductos() {
-    console.log(productData);
-    // const productosFiltrados = data.products.filter(product => product.nombre == selectProduct.value)
-    // console.log(data.products);
-    // console.log(selectProduct.value);
-    // console.log(productosFiltrados);
+  console.log(productData);
+  const productosFiltrados = productData.filter(product => product.nombre == selectProduct.value);
+  console.log(selectProduct.value); // Test
+  console.log(productosFiltrados); // Test
 
-    // const sectionProductA = document.createElement("section");
-    // const h3ProductA = document.createElement("h3");
+  // Limpia el contenedor de productos antes de agregar nuevos elementos
+  productSection.innerHTML = "";
 
-    // const pictureProductA = document.createElement("picture");
-    //   const imgProductA = document.createElement("img");
-    //   imgProductA.setAttribute()
+  productosFiltrados.forEach(producto => {
+    const sectionProductA = document.createElement("section");
+    sectionProductA.setAttribute("class", "productSections");
+
+    const h3ProductA = document.createElement("h3");
+    h3ProductA.innerHTML = producto.nombre;
+
+    const pictureProductA = document.createElement("picture");
+    pictureProductA.setAttribute("class", "productPictures");
+    const imgProductA = document.createElement("img");
+    imgProductA.setAttribute("class", "productImgs");
+    imgProductA.setAttribute("src", producto.link);
+    pictureProductA.appendChild(imgProductA);
+
+    sectionProductA.appendChild(pictureProductA);
+    sectionProductA.appendChild(h3ProductA);
+
+    productSection.appendChild(sectionProductA);
+  });
 }
+
+
+// ---------------------------------------------------showslide-------------------------
+let slideIndex = 1;
+var slides = document.querySelector(".mySlides");
+var intervalId;
+showSlides(slideIndex);
+
+// Next/previous controls
+function plusSlides(n) {
+    clearInterval(intervalId);
+    showSlides(slideIndex += n);
+    startInterval();
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+    clearInterval(intervalId);
+    showSlides(slideIndex = n);
+    startInterval();
+}
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+//   delete all the slides
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+//   show only one slide
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+
+function startInterval() {
+    intervalId = setInterval(function() {
+      plusSlides(1);
+    }, 8000);
+  }
+
+  startInterval();
