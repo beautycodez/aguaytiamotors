@@ -161,9 +161,317 @@
         },
         {
             "numero" : "BG-01",
-            "nombre" : "bobina",
-            "link" : "https://drive.google.com/uc?export=download&id=1g_txKJsZcuPb_3FWoY10KDyQwCsw0pR-",
-            "marca": ""
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal(pico liso)"
+        }
+        ,
+        {
+            "numero" : "BG-02",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal(pico corrugado)"
+        }
+        ,
+        {
+            "numero" : "BG-03",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris con pico"
+        },
+        {
+            "numero" : "BG-04",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris sin pico"
+        },
+        {
+            "numero" : "BG-05",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia rio"
+        },
+        {
+            "numero" : "BG-06",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal externa"
+        },
+        {
+            "numero" : "BG-07",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan tiida"
+        },
+        {
+            "numero" : "BG-08",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan versa"
+        },
+        {
+            "numero" : "BG-09",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan sentra"
+        },
+        {
+            "numero" : "BG-10",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet spark"
+        },
+        {
+            "numero" : "BG-11",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia rio, hyundai accent moderno"
+        },
+        {
+            "numero" : "BG-12",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota probox"
+        },
+        {
+            "numero" : "BG-13",
+            "nombre" : "bomba de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "carros chinos"
+        },
+        {
+            "numero" : "FB-01",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota probox"
+        },
+        {
+            "numero" : "FB-02",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris sin pico"
+        },
+        {
+            "numero" : "FB-03",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris con pico"
+        },
+        {
+            "numero" : "FB-04",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai elantra, kia cerato"
+        },
+        {
+            "numero" : "FB-05",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia picanto"
+        },
+        {
+            "numero" : "FB-06",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan tiida, nissan qasqai"
+        },
+        {
+            "numero" : "FB-07",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan ad, nissan qg"
+        },
+        {
+            "numero" : "FB-08",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai, kia rio"
+        },
+        {
+            "numero" : "FB-09",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai, kia rio"
+        },
+        {
+            "numero" : "FB-10",
+            "nombre" : "filtro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan qg"
+        },
+        {
+            "numero" : "FC-01",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet sail"
+        },
+        {
+            "numero" : "FC-02",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "carros chinos"
+        },
+        {
+            "numero" : "FC-03",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "carros chinos, great wall"
+        },
+        {
+            "numero" : "FC-04",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan bluebird"
+        },
+        {
+            "numero" : "FC-05",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan sentra"
+        },
+        {
+            "numero" : "FC-06",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai, kia"
+        },
+        {
+            "numero" : "FC-07",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyndai accent"
+        },
+        {
+            "numero" : "FC-08",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris, toyota etios"
+        },
+        {
+            "numero" : "FC-09",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris con pico"
+        },
+        {
+            "numero" : "FC-10",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris sin pico"
+        },
+        {
+            "numero" : "FC-11",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai sonata"
+        },
+        {
+            "numero" : "FC-12",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota probox"
+        },
+        {
+            "numero" : "FC-13",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia rio"
+        },
+        {
+            "numero" : "FC-14",
+            "nombre" : "filtro cedazo",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan qg, almera"
+        },
+        {
+            "numero" : "RP-01",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "carro chino, chevrolet sail"
+        },
+        {
+            "numero" : "RP-02",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan sentra"
+        },
+        {
+            "numero" : "RP-03",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan qg, nissan sunny"
+        },
+        {
+            "numero" : "RP-04",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia rio"
+        },
+        {
+            "numero" : "RP-05",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota probox"
+        },
+        {
+            "numero" : "RP-06",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris"
+        },
+        {
+            "numero" : "RP-07",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet aveo"
+        },
+        {
+            "numero" : "RP-08",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan qg curvo"
+        },
+        {
+            "numero" : "RP-09",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan qg externo"
+        },
+        {
+            "numero" : "RP-10",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "geely, byd, great wall"
+        },
+        {
+            "numero" : "RP-11",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota 4a 5e"
+        },
+        {
+            "numero" : "RP-12",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "audi, changan, carros chinos"
+        },
+        {
+            "numero" : "RP-13",
+            "nombre" : "regulador de presion",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "glory"
+        },
+        {
+            "numero" : "FG-01",
+            "nombre" : "filtro de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "FG-01",
+            "nombre" : "filtro de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
         }
     ]
 }
