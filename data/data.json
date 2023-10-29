@@ -468,10 +468,28 @@
             "marca": "universal"
         },
         {
-            "numero" : "FG-01",
+            "numero" : "FG-02",
             "nombre" : "filtro de gasolina",
             "link" : "https://drive.google.com/uc?export=download&id=",
-            "marca": "universal"
+            "marca": "nissan sentra"
+        },
+        {
+            "numero" : "FG-03",
+            "nombre" : "filtro de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet aveo, carros chinos"
+        },
+        {
+            "numero" : "FG-04",
+            "nombre" : "filtro de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet sail"
+        },
+        {
+            "numero" : "FG-05",
+            "nombre" : "filtro de gasolina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "dongfeng, glory, carros chinos"
         }
     ]
 }
