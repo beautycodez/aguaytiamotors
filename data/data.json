@@ -748,6 +748,330 @@
             "nombre" : "chupon de bobina",
             "link" : "https://drive.google.com/uc?export=download&id=",
             "marca": "kia universal"
+        },
+        {
+            "numero" : "CH-05",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "byd f3"
+        },
+        {
+            "numero" : "CH-06",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyndai accent"
+        },
+        {
+            "numero" : "CH-07",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hynduai, kia largo"
+        },
+        {
+            "numero" : "CH-08",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "glory"
+        },
+        {
+            "numero" : "CH-09",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia picanto"
+        },
+        {
+            "numero" : "CH-10",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "renault"
+        },
+        {
+            "numero" : "CH-11",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota avanza"
+        },
+        {
+            "numero" : "CH-12",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "renault beru"
+        },
+        {
+            "numero" : "CH-13",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai tucson"
+        },
+        {
+            "numero" : "CH-14",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris, toyota probox"
+        },
+        {
+            "numero" : "IG-01",
+            "nombre" : "inyectores para gas",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "valtek"
+        },
+        {
+            "numero" : "LI-01",
+            "nombre" : "acido",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "launch para tina de ultrasonido"
+        },
+        {
+            "numero" : "LI-02",
+            "nombre" : "liquido",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "launch para probetas(testeo de inyectores)"
+        },
+        {
+            "numero" : "PCV-01",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai elantra"
+        },
+        {
+            "numero" : "PCV-02",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia picanto"
+        },
+        {
+            "numero" : "PCV-03",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai kia"
+        },
+        {
+            "numero" : "PCV-04",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai accent"
+        },
+        {
+            "numero" : "PCV-05",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan versa"
+        },
+        {
+            "numero" : "PCV-06",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet aveo, optra"
+        },
+        {
+            "numero" : "PCV-07",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "suzuki vitara, swift"
+        },
+        {
+            "numero" : "PCV-08",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet n200, n300"
+        },
+        {
+            "numero" : "PCV-09",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota etios, 4e, 5a"
+        },
+        {
+            "numero" : "PCV-10",
+            "nombre" : "valvula pcv",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "changan, carros chinos"
+        },
+        {
+            "numero" : "OR-01",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan ga 16"
+        },
+        {
+            "numero" : "OR-02",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan ga 16 02"
+        },
+        {
+            "numero" : "OR-03",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris, toyota probox"
+        },
+        {
+            "numero" : "OR-04",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal qg(vitton)"
+        },
+        {
+            "numero" : "OR-05",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal nissan(nitrilo)"
+        },
+        {
+            "numero" : "OR-06",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota(vitton)"
+        },
+        {
+            "numero" : "OR-07",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan ga 13"
+        },
+        {
+            "numero" : "OR-08",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet aveo, sail - carros chinos(delgado)"
+        },
+        {
+            "numero" : "OR-09",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "volkswage n, carros chinos, chevrolet(grueso)"
+        },
+        {
+            "numero" : "OR-10",
+            "nombre" : "o-ring",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan sentra vitton"
+        },
+        {
+            "numero" : "BI-01",
+            "nombre" : "base de inyector",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota corolla"
+        },
+        {
+            "numero" : "BI-02",
+            "nombre" : "base de inyector",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota probox"
+        },
+        {
+            "numero" : "BI-03",
+            "nombre" : "base de inyector",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota suzuki, mitsubishi"
+        },
+        {
+            "numero" : "MF-01",
+            "nombre" : "microfiltro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "MF-02",
+            "nombre" : "microfiltro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan ga 16"
+        },
+        {
+            "numero" : "MF-03",
+            "nombre" : "microfiltro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan ga 13"
+        },
+        {
+            "numero" : "MF-04",
+            "nombre" : "microfiltro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan tiida"
+        },
+        {
+            "numero" : "MF-05",
+            "nombre" : "microfiltro",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan frontier, pathfinder"
+        },
+        {
+            "numero" : "VAQ-01",
+            "nombre" : "vaquelita",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "VAQ-01",
+            "nombre" : "vaquelita",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "VAQ-02",
+            "nombre" : "vaquelita",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "VAQ-03",
+            "nombre" : "vaquelita",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "EXF-01",
+            "nombre" : "extractor para microfiltros",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "TAB-01",
+            "nombre" : "tablero",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "maquina launch cnc-602a"
+        },
+        {
+            "numero" : "ST-01",
+            "nombre" : "sensor de temperatura",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai, kia(2 pines)"
+        },
+        {
+            "numero" : "ST-02",
+            "nombre" : "sensor de temperatura",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai, kia(3 pines)"
+        },
+        {
+            "numero" : "ST-03",
+            "nombre" : "sensor de temperatura",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota probox"
+        },
+        {
+            "numero" : "ST-04",
+            "nombre" : "sensor de temperatura",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan, toyota"
+        },
+        {
+            "numero" : "SC-01",
+            "nombre" : "sensor de cigueñal",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai accent, hyundai elantra, kia"
+        },
+        {
+            "numero" : "SC-02",
+            "nombre" : "sensor de cigueñal",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai accent, hyundai elantra, kia cerato"
+        },
+        {
+            "numero" : "SC-03",
+            "nombre" : "sensor de cigueñal",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai accent, hyundai elantra, kia"
         }
     ]
 }
