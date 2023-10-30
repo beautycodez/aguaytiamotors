@@ -490,6 +490,264 @@
             "nombre" : "filtro de gasolina",
             "link" : "https://drive.google.com/uc?export=download&id=",
             "marca": "dongfeng, glory, carros chinos"
+        },
+        {
+            "numero" : "MC-01",
+            "nombre" : "manguera corrugada de 15 cm",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "MC-02",
+            "nombre" : "manguera corrugada de 20 cm",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "MC-03",
+            "nombre" : "manguera corrugada de 24 cm",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "MC-04",
+            "nombre" : "manguera corrugada de 27 cm",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "MC-05",
+            "nombre" : "manguera corrugada de 30 cm",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "MC-06",
+            "nombre" : "manguera corrugada de 13cm con canastilla",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia rio"
+        },
+        {
+            "numero" : "MC-07",
+            "nombre" : "manguera corrugada de 13cm",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "MC-08",
+            "nombre" : "manguera corrugada de 35cm",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "universal"
+        },
+        {
+            "numero" : "BE-01",
+            "nombre" : "bobina de encendido",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai kia"
+        },
+        {
+            "numero" : "BE-02",
+            "nombre" : "bobina de encendido",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota probox"
+        },
+        {
+            "numero" : "BE-03",
+            "nombre" : "bobina de encendido",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai accent"
+        },
+        {
+            "numero" : "BE-04",
+            "nombre" : "bobina de encendido",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai, kia larga"
+        },
+        {
+            "numero" : "BE-05",
+            "nombre" : "bobina de encendido",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia soluto"
+        },
+        {
+            "numero" : "BE-06",
+            "nombre" : "bobina de encendido",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai tucson"
+        },
+        {
+            "numero" : "BE-07",
+            "nombre" : "bobina de encendido",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia picanto, hyundai i10"
+        },
+        {
+            "numero" : "CB-01",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet aveo, daewoo"
+        },
+        {
+            "numero" : "CB-02",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "mitsubishi, sotye"
+        },
+        {
+            "numero" : "CB-03",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevy taxi, chevrolet corsa"
+        },
+        {
+            "numero" : "CB-04",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia rio 1.2, hyundai i10, kia picanto"
+        },
+        {
+            "numero" : "CB-05",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "suzuki apv"
+        },
+        {
+            "numero" : "CB-06",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia rio 1.6, hyundai accent"
+        },
+        {
+            "numero" : "CB-07",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet n200, n300"
+        },
+        {
+            "numero" : "CB-08",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan sentra ga 15-16, bluebird"
+        },
+        {
+            "numero" : "CB-09",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota 4e/5e, tercel"
+        },
+        {
+            "numero" : "CB-10",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "hyundai excel 1.5"
+        },
+        {
+            "numero" : "CB-11",
+            "nombre" : "cable de bujia",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "van china, hafei"
+        },
+        {
+            "numero" : "CN-01",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan qg"
+        },
+        {
+            "numero" : "CN-02",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan tiida"
+        },
+        {
+            "numero" : "CN-03",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet sail moderno"
+        },
+        {
+            "numero" : "CN-04",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris, toyota etios"
+        },
+        {
+            "numero" : "CN-05",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "suzuki apv moderno"
+        },
+        {
+            "numero" : "CN-06",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan tiida, great wall"
+        },
+        {
+            "numero" : "CN-07",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "suzuki apv antiguo"
+        },
+        {
+            "numero" : "CN-08",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "mitsubishi"
+        },
+        {
+            "numero" : "CN-09",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "changan"
+        },
+        {
+            "numero" : "CN-10",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "zotye, carros chinos"
+        },
+        {
+            "numero" : "CN-11",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "nissan versa"
+        },
+        {
+            "numero" : "CN-12",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "great wall, carros chinos"
+        },
+        {
+            "numero" : "CN-13",
+            "nombre" : "caña de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "changan, carros chinos"
+        },
+        {
+            "numero" : "CH-01",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota yaris, toyota probox universal"
+        },
+        {
+            "numero" : "CH-02",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "chevrolet sail"
+        },
+        {
+            "numero" : "CH-03",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "toyota corolla"
+        },
+        {
+            "numero" : "CH-04",
+            "nombre" : "chupon de bobina",
+            "link" : "https://drive.google.com/uc?export=download&id=",
+            "marca": "kia universal"
         }
     ]
 }
