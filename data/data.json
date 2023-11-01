@@ -169,146 +169,146 @@
         {
             "numero" : "BG-02",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-02.png",
             "marca": "universal(pico corrugado)"
         }
         ,
         {
             "numero" : "BG-03",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-03.png",
             "marca": "toyota yaris con pico"
         },
         {
             "numero" : "BG-04",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-04.png",
             "marca": "toyota yaris sin pico"
         },
         {
             "numero" : "BG-05",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-05.jpg",
             "marca": "kia rio"
         },
         {
             "numero" : "BG-06",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-06.jpg",
             "marca": "universal externa"
         },
         {
             "numero" : "BG-07",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-07.jpg",
             "marca": "nissan tiida"
         },
         {
             "numero" : "BG-08",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-08.jpg",
             "marca": "nissan versa"
         },
         {
             "numero" : "BG-09",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-09.jpg",
             "marca": "nissan sentra"
         },
         {
             "numero" : "BG-10",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-10.jpg",
             "marca": "chevrolet spark"
         },
         {
             "numero" : "BG-11",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-11.jpg",
             "marca": "kia rio, hyundai accent moderno"
         },
         {
             "numero" : "BG-12",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-12.jpg",
             "marca": "toyota probox"
         },
         {
             "numero" : "BG-13",
             "nombre" : "bomba de gasolina",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/bg-13.jpg",
             "marca": "carros chinos"
         },
         {
             "numero" : "FB-01",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-01.jpg",
             "marca": "toyota probox"
         },
         {
             "numero" : "FB-02",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-02.jpg",
             "marca": "toyota yaris sin pico"
         },
         {
             "numero" : "FB-03",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-03.jpg",
             "marca": "toyota yaris con pico"
         },
         {
             "numero" : "FB-04",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-04.jpg",
             "marca": "hyundai elantra, kia cerato"
         },
         {
             "numero" : "FB-05",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-05.jpg",
             "marca": "kia picanto"
         },
         {
             "numero" : "FB-06",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-06.jpg",
             "marca": "nissan tiida, nissan qasqai"
         },
         {
             "numero" : "FB-07",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-07.jpg",
             "marca": "nissan ad, nissan qg"
         },
         {
             "numero" : "FB-08",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-08.jpg",
             "marca": "hyundai, kia rio"
         },
         {
             "numero" : "FB-09",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-09.jpg",
             "marca": "hyundai, kia rio"
         },
         {
             "numero" : "FB-10",
             "nombre" : "filtro",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fb-10.jpg",
             "marca": "nissan qg"
         },
         {
             "numero" : "FC-01",
             "nombre" : "filtro cedazo",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fc-01.jpg",
             "marca": "chevrolet sail"
         },
         {
             "numero" : "FC-02",
             "nombre" : "filtro cedazo",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/fc-02.jpg",
             "marca": "carros chinos"
         },
         {
