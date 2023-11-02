@@ -4,17 +4,22 @@
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
-    max-height: 1000px;
+    /* max-height: 1200px; */
     overflow: hidden;
 }
-.ProductSections {
-    width: fit-content;
+.productSections {
+    width: 140px;
+    background-color: #eff3f2;
+    text-align: center;
+    padding: 10px;
 }
 .productPictures {
     display: block;
     width: 120px;
     height: 150px;
     object-fit: cover;
+    margin: 0 auto;
+    border: 1px solid black;
 }
 .productImgs {
     height: 100%;
@@ -116,7 +121,7 @@ main {
     background-color: rgb(239, 243, 242);
 }
 .hamburger-div {
-    background-color: #e9190f;
+    background-color: blue;
     margin-top: 10px;
 }
 #hamburgerBtn {
@@ -135,7 +140,7 @@ main {
 }
 .mensaje-diferenciador section button {
     margin-bottom: 20px;
-    background-color: #e9190f;
+    background-color: blue;
     padding: 10px;
     border-radius: 15%;
     font-size: xx-large;

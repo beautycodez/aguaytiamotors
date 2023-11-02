@@ -45,10 +45,12 @@ function displayResults(data) {
     nombre.innerHTML = product.nombre;
 
     const marca = document.createElement("p");
+    marca.innerHTML = `Marca: ${product.marca}`;
 
     pictureElement.appendChild(imgElement);
     sectionElement.appendChild(pictureElement);
     sectionElement.appendChild(nombre);
+    sectionElement.appendChild(marca);
 
     productSection.appendChild(sectionElement);
     
@@ -111,7 +113,8 @@ function filtrarProductos() {
   
       const h3ProductA = document.createElement("h3");
       h3ProductA.innerHTML = producto.nombre;
-  
+      const marca = document.createElement("p");
+    marca.innerHTML = `Marca: ${producto.marca}`;
       const pictureProductA = document.createElement("picture");
       pictureProductA.setAttribute("class", "productPictures");
       const imgProductA = document.createElement("img");
@@ -121,6 +124,7 @@ function filtrarProductos() {
   
       sectionProductA.appendChild(pictureProductA);
       sectionProductA.appendChild(h3ProductA);
+      sectionProductA.appendChild(marca);
   
       productSection.appendChild(sectionProductA);
     });
