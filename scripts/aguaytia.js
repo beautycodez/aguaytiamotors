@@ -89,36 +89,41 @@ function displayName(data) {
 
 // -----------------------------------------------------------filtrar los productos por nombre---------------------
 function filtrarProductos() {
-  console.log(productData);
-  const productosFiltrados = productData.filter(
-    (product) => product.nombre == selectProduct.value
-  );
-  console.log(selectProduct.value); // Test
-  console.log(productosFiltrados); // Test
-  // Limpia el contenedor de productos antes de agregar nuevos elementos
-  productSection.innerHTML = "";
-
-  productosFiltrados.forEach((producto) => {
-    const sectionProductA = document.createElement("section");
-    sectionProductA.setAttribute("class", "productSections");
-
-    const h3ProductA = document.createElement("h3");
-    h3ProductA.innerHTML = producto.nombre;
-
-    const pictureProductA = document.createElement("picture");
-    pictureProductA.setAttribute("class", "productPictures");
-    const imgProductA = document.createElement("img");
-    imgProductA.setAttribute("class", "productImgs");
-    imgProductA.setAttribute("src", producto.link);
-    pictureProductA.appendChild(imgProductA);
-
-    sectionProductA.appendChild(pictureProductA);
-    sectionProductA.appendChild(h3ProductA);
-
-    productSection.appendChild(sectionProductA);
-  });
-  var filterProductSections = document.querySelectorAll(".productSections");
-  displayPage(1, filterProductSections)
+  if (selectProduct.value != "todo") {
+    const productosFiltrados = productData.filter(
+      (product) => product.nombre == selectProduct.value
+    );
+    console.log(selectProduct.value); // Test
+    console.log(productosFiltrados); // Test
+    // Limpia el contenedor de productos antes de agregar nuevos elementos
+    productSection.innerHTML = "";
+  
+    productosFiltrados.forEach((producto) => {
+      const sectionProductA = document.createElement("section");
+      sectionProductA.setAttribute("class", "productSections");
+  
+      const h3ProductA = document.createElement("h3");
+      h3ProductA.innerHTML = producto.nombre;
+  
+      const pictureProductA = document.createElement("picture");
+      pictureProductA.setAttribute("class", "productPictures");
+      const imgProductA = document.createElement("img");
+      imgProductA.setAttribute("class", "productImgs");
+      imgProductA.setAttribute("src", producto.link);
+      pictureProductA.appendChild(imgProductA);
+  
+      sectionProductA.appendChild(pictureProductA);
+      sectionProductA.appendChild(h3ProductA);
+  
+      productSection.appendChild(sectionProductA);
+    });
+    var filterProductSections = document.querySelectorAll(".productSections");
+    displayPage(1, filterProductSections)
+  } else {
+      productSection.innerHTML = "";
+      displayResults(productData)
+  }
+  
 }
 
 // ---------------------------------------------------showslide-------------------------
