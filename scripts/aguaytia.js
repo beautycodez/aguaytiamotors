@@ -40,11 +40,18 @@ function displayResults(data) {
 
     pictureElement.setAttribute("class", "productPictures");
     sectionElement.setAttribute("class", "productSections");
+    
+    const nombre = document.createElement("p");
+    nombre.innerHTML = product.nombre;
+
+    const marca = document.createElement("p");
 
     pictureElement.appendChild(imgElement);
     sectionElement.appendChild(pictureElement);
+    sectionElement.appendChild(nombre);
 
     productSection.appendChild(sectionElement);
+    
   });
   var productSections = document.querySelectorAll(".productSections")
   console.log(productSections);

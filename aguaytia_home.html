@@ -20,7 +20,9 @@
         </picture>
         
     </header>
-    <button id="hamburgerBtn">&#9776</button>
+    <div class="hamburger-div">
+        <button id="hamburgerBtn">&#9776</button>
+    </div>
     <nav class="navBar">
         <ul id="primaryNav">
             <li><a href="">Catálogo de Productos</a></li>
@@ -60,6 +62,7 @@
             <span class="dot" onclick="currentSlide(2)"></span>
             <span class="dot" onclick="currentSlide(3)"></span>
         </div>
+        <div class="mensaje-diferenciador">
             <section>
                 <h3>
                     Taller Multimarca <br> <span>Pasión por el rendimiento y calidad.</span>
@@ -68,8 +71,10 @@
                 <button>Cotiza Aquí</button>
             </section>
         </div>
+
+        </div>
         
-        <article>
+        <article class="aceite-marcas">
             <h1>Nuestras marcas de Aceite</h1>
             <div class="imagenes_marca">
                 <picture>
@@ -92,7 +97,7 @@
                 </picture>
             </div>
         </article>
-        <div>
+        <div class="catalogo">
             <h1>Nuestro Increíble Catálogo</h1>
             <label class="top">Filtrar por clase de producto
                 <select id="select-product" class="select" name="product" required onchange="filtrarProductos()">
