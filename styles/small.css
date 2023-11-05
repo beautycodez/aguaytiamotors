@@ -173,6 +173,19 @@ main {
 }
 .mensaje-diferenciador section h3 {
     color: #2E2E94;
+    margin: 15px;
+}
+.valores section {
+    text-align: center;
+    margin: 50px 0;
+}
+.ventajas {
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+}
+.ventajas img {
+    width: 100%;
 }
 /* ------------------------nuestras marcas */
 .aceite-marcas {
@@ -319,6 +332,14 @@ footer {
 }
 .atencion p {
     margin-bottom: 0px;
+}
+.googlemaps div {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.googlemaps div iframe {
+    width: 95%;
 }
 
   
