@@ -213,6 +213,40 @@ function displayPage(page, productSections) {
   }
 }
 
-// Muestra la primera página por defecto
 
-// Tu código JavaScript aquí
+// hacer un efecto de scroll para el nav bar -----------------------------------------------------------
+$(document).ready(function() {
+  // Cuando se hace clic en un enlace del menú de navegación
+  $('nav a').click(function(event) {
+      event.preventDefault();
+
+      // Obtiene el valor del atributo href del enlace (como #seccion1)
+      var target = $(this).attr('href');
+
+      // Hace un desplazamiento suave a la sección correspondiente
+      $('html, body').animate({
+          scrollTop: $(target).offset().top
+      }, 1000); // 1000 representa la duración de la animación en milisegundos
+  });
+});
+
+// sticky nav bar -------------------------------------------
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the navbar
+var navbar = document.getElementById("navigation");
+// Get the offset position of the navbar
+var sticky = navbar.offsetTop;
+
+// Add the sticky class to the navbar when you reach its scroll 
+//position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+    hamBtn.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+    hamBtn.classList.remove("sticky");
+  }
+}

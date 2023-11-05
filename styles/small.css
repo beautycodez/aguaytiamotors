@@ -65,6 +65,9 @@ header {
 }
 .navBar.open {
     display: block;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
 }
 .navBar.open ul {
     padding-left: 0px;
@@ -111,6 +114,7 @@ header button {
     width: 95vw;
     border-radius: 20%;
     margin-left: 20px;
+    margin-bottom: 10px;
 }
 main {
     background-color: white;
@@ -146,10 +150,13 @@ main {
 }
 .hamburger-div {
     background-color: #2E2E94;
-    margin-top: 10px;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 #hamburgerBtn {
-    width: fit-content;
     border: none;
     background: none ;
     padding: 10px;
