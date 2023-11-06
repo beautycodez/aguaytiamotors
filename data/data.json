@@ -1058,14 +1058,8 @@
         {
             "numero" : "SC-02",
             "nombre" : "images/sc-02.jpg",
-            "link" : "https://drive.google.com/uc?export=download&id=",
+            "link" : "images/sc-02.jpg",
             "marca": "hyundai accent, hyundai elantra, kia cerato"
-        },
-        {
-            "numero" : "SC-03",
-            "nombre" : "sensor de cigueñal",
-            "link" : "images/sc-03.jpg",
-            "marca": "hyundai accent, hyundai elantra, kia"
         }
     ]
 }
