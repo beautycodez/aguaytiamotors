@@ -4,160 +4,160 @@
     "products" : [
         {
             "numero" : 1,
-            "nombre" : "sensor_temperatura",
+            "nombre" : "sensor temperatura",
             "link" : "https://drive.google.com/uc?export=download&id=1DSB8EQnRXfbP8MLerxXrTgLF8iwhQsUp",
-            "marca" : ""
+            "marca" : "toyota yaris, tercel, probox antiguo, toyota 2s-3s, lexus, h.accent, elantra, kia soul, sportage"
         },
         {
             "numero" : 2,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1aY2c5nCEOwDCm25ztN9-W24MnqFXq_UW",
-            "marca": ""
+            "marca": "chevrolet sail"
         },
         {
             "numero" : 3,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1-Szl2DjWtJhozlpG3WXbw4duRYLFjCyy",
-            "marca": ""
+            "marca": "zotye, changan, carros chinos"
         },
         {
             "numero" : 4,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1HtAqcsuOcPQJ07H-6U8k-UdeLwa43ZHJ",
-            "marca": ""
+            "marca": "byd f3"
             
         },
         {
             "numero" : 5,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1AWNJ1MLmKHAVcc7JiZSzRLyE2q5dVmLK",
-            "marca": ""
+            "marca": "byd f3"
         },
         {
             "numero" : 6,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1dI_ThskuCckv33F4tfUSycBgW3Gyx1DW",
-            "marca": ""
+            "marca": "carros chinos"
         },
         {
             "numero" : 7,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1iEqRDPVDYnL7IQ9OsjBQU132Ml7Lgk5T",
-            "marca": ""
+            "marca": "hyundai accent"
         },
         {
             "numero" : 8,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1_We9crvKfx6I7pZF5353mCcS-BreICb4",
-            "marca": ""
+            "marca": "nissan qg, nissan sentra"
         },
         {
             "numero" : 9,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=16VPZsDpLd774jX7D52FLD0LgV8bqk3Tn",
-            "marca": ""
+            "marca": "toyota corolla, lexus rav4"
                 },
         {
             "numero" : 10,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1QHHTqAEhATfqaCWgPc9zcYEkrPNPxY0z",
-            "marca": ""
+            "marca": "toyota yaris"
         },
         {
             "numero" : 11,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1gIxpVdjZBKhpqbCkSW1cplQifbDr09ej",
-            "marca": ""
+            "marca": "suzuki ertiga, suzuki sx4"
         },
         {
             "numero" : 12,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1pGtE9LWYU7Bpky9CqoizuCtiaCp0mBV-",
-            "marca": ""
+            "marca": "hyundai, kia universal"
         },
         {
             "numero" : 13,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1aSrbF_gjKLpPmaZqydDe0ZYXCej8a-6Y",
-            "marca": ""
+            "marca": "chevrolet cruze"
         },
         {
             "numero" : 14,
-            "nombre" : "filtro_aire",
+            "nombre" : "filtro aire",
             "link" : "https://drive.google.com/uc?export=download&id=1Zj6mZmqTq19gclRH0UsXof-lpeUPyEb1",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 15,
             "nombre" : "gasoline",
             "link" : "https://drive.google.com/uc?export=download&id=1fT4ySUeMOoRsZbaLxtH72WZraOPE1hOr",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 16,
-            "nombre" : "filtro_aire",
+            "nombre" : "filtro aire",
             "link" : "https://drive.google.com/uc?export=download&id=1OWe1gu4PuLrv82GiHuHg92TgaJGsQdj-",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 17,
-            "nombre" : "silicona_llanta",
+            "nombre" : "silicona llanta",
             "link" : "https://drive.google.com/uc?export=download&id=1WJxMtg7hlT-b4ms0nXZoLihCOThV6JL0",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 18,
             "nombre" : "resorte",
             "link" : "https://drive.google.com/uc?export=download&id=1DSrXXZFyIHDpzP093KdQyjbq9wBzJqy4",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 19,
             "nombre" : "amortiguadores",
             "link" : "https://drive.google.com/uc?export=download&id=1LhcKjHHnwUpScMGfBDNoK8C-84qDQRxN",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 20,
             "nombre" : "bujias",
             "link" : "https://drive.google.com/uc?export=download&id=16P67vZyuyiTIzyOYSz7a-nA4d5lJI8vc",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 21,
             "nombre" : "bujias",
             "link" : "https://drive.google.com/uc?export=download&id=1OC_TDvf5uW_rfkcDY4Mcu37p5vyWp3gm",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 22,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1OkXzGgJW5tPV57KGuod9gRjpBtmrbK-K",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 23,
-            "nombre" : "filtro_gas",
+            "nombre" : "filtro gas",
             "link" : "https://drive.google.com/uc?export=download&id=1dn0DbNtszt7bQ5a79tNd9jLrV2C6mJWl",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 24,
-            "nombre" : "cable_bujias",
+            "nombre" : "cable de bujia",
             "link" : "https://drive.google.com/uc?export=download&id=1aHEIGcMn654NODM9g_tHKmtKaidBo0xe",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 25,
             "nombre" : "bobina",
             "link" : "https://drive.google.com/uc?export=download&id=1g_txKJsZcuPb_3FWoY10KDyQwCsw0pR-",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : 26,
-            "nombre" : "cable_bujias",
+            "nombre" : "cable de bujia",
             "link" : "https://drive.google.com/uc?export=download&id=15H9Oe50PVH83m8RcmiR5ast9abSrlf06",
-            "marca": ""
+            "marca": "universal"
         },
         {
             "numero" : "BG-01",
