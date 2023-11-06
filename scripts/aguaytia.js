@@ -42,7 +42,7 @@ function displayResults(data) {
     sectionElement.setAttribute("class", "productSections");
     
     const nombre = document.createElement("p");
-    nombre.innerHTML = product.nombre;
+    nombre.innerHTML = product.nombre.charAt(0).toUpperCase() + product.nombre.slice(1);
 
     const marca = document.createElement("p");
     marca.innerHTML = `Marca: ${product.marca}`;

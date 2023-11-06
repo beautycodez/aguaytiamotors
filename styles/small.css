@@ -178,6 +178,10 @@ main {
     font-size: xx-large;
     color: white;
 }
+.mensaje-diferenciador section button a {
+    text-decoration: none;
+    color: white;
+}
 .mensaje-diferenciador section h3 {
     color: #2E2E94;
     margin: 15px;
