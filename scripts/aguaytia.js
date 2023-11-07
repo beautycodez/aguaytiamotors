@@ -47,8 +47,8 @@ function displayResults(data) {
     const marca = document.createElement("p");
     marca.innerHTML = `Marca: ${product.marca}`;
 
-    pictureElement.appendChild(imgElement);
-    sectionElement.appendChild(pictureElement);
+    // pictureElement.appendChild(imgElement);
+    // sectionElement.appendChild(pictureElement);
     sectionElement.appendChild(nombre);
     sectionElement.appendChild(marca);
 
