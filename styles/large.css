@@ -1,0 +1,27 @@
+@media only screen and (min-width: 60em) {
+    .valores {
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+    #hamburgerBtn {
+        display: none;
+    }
+    .navBar {
+        display: flex;
+    }
+    .navBar ul {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        padding: 0px;
+    }
+    .navBar ul li {
+        list-style: none;
+    }
+    .navBar ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+}

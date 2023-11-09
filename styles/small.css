@@ -1,6 +1,6 @@
 .productos {
     display: flex;
-    width: 100vw;
+    width: 100%;
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
@@ -108,13 +108,17 @@ header button {
 }
 .logo {
     display: flex;
+    width: 100vw;
     align-items: center;
+    justify-content: center;
 }
 .logo img{
     width: 95vw;
+    max-width: 350px;
     border-radius: 20%;
-    margin-left: 20px;
+    /* margin-left: 20px; */
     margin-bottom: 10px;
+    margin: 0 auto;
 }
 main {
     background-color: white;
@@ -150,6 +154,7 @@ main {
 }
 .hamburger-div {
     background-color: #2E2E94;
+    z-index: 1;
 }
 .sticky {
     position: fixed;
@@ -167,7 +172,8 @@ main {
 }
 .mensaje-diferenciador {
     background-color: #C8171F;
-    margin: 50px 0px;
+    max-width: 900px;
+    margin: 50px auto;
     padding: 20px 10px;
 }
 .mensaje-diferenciador section button {
@@ -208,9 +214,10 @@ main {
 }
 .imagenes_marca {
     display: flex;
+    width: 90%;
     flex-wrap: wrap;
     margin-top: 40px;
-    padding: 0px 50px;
+    padding: 0px 0px;
     justify-content: space-between;
     gap: 20px;
 }
