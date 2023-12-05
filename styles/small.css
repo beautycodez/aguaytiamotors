@@ -1,5 +1,5 @@
 .productos {
-    display: flex;
+    display: block;
     width: 100%;
     flex-wrap: wrap;
     gap: 20px;
@@ -8,11 +8,34 @@
     overflow: hidden;
     margin-bottom: 50px;
 }
+.header-table {
+    display: flex;
+    background-color: yellow;
+}
+.product-type {
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    font-size: x-large;
+}
+.product-brand {
+    padding: 10px;
+    text-align: center;
+    font-size: x-large;
+}
 .productSections {
-    width: 140px;
+    display: flex;
+    width: 100%;
     background-color: #eff3f2;
     text-align: center;
     padding: 10px;
+}
+.productSections:nth-child(even) {
+    background-color: white;
+}
+.productSections p:first-child {
+    color: red;
+    width: 150px;
 }
 .productPictures {
     display: block;

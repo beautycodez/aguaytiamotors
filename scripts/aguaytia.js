@@ -197,7 +197,7 @@ function displayPage(page, productSections) {
 
   productSections.forEach((product, index) => {
     if (index >= start && index < end) {
-      product.style.display = "block";
+      product.style.display = "flex";
     } else {
       product.style.display = "none";
     }
