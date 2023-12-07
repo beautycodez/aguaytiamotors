@@ -41,11 +41,11 @@ function displayResults(data) {
     pictureElement.setAttribute("class", "productPictures");
     sectionElement.setAttribute("class", "productSections");
     
-    const nombre = document.createElement("p");
+    const nombre = document.createElement("h3");
     nombre.innerHTML = product.nombre.charAt(0).toUpperCase() + product.nombre.slice(1);
 
     const marca = document.createElement("p");
-    marca.innerHTML = `Marca: ${product.marca}`;
+    marca.innerHTML = `${product.marca}`;
 
     // pictureElement.appendChild(imgElement);
     // sectionElement.appendChild(pictureElement);
@@ -106,7 +106,6 @@ function filtrarProductos() {
     console.log(productosFiltrados); // Test
     // Limpia el contenedor de productos antes de agregar nuevos elementos
     productSection.innerHTML = "";
-  
     productosFiltrados.forEach((producto) => {
       const sectionProductA = document.createElement("section");
       sectionProductA.setAttribute("class", "productSections");
@@ -114,7 +113,7 @@ function filtrarProductos() {
       const h3ProductA = document.createElement("h3");
       h3ProductA.innerHTML = producto.nombre;
       const marca = document.createElement("p");
-    marca.innerHTML = `Marca: ${producto.marca}`;
+    marca.innerHTML = `${producto.marca}`;
       const pictureProductA = document.createElement("picture");
       pictureProductA.setAttribute("class", "productPictures");
       const imgProductA = document.createElement("img");

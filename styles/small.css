@@ -37,17 +37,21 @@
     color: red;
     width: 150px;
 }
+.productSections h3 {
+  color: red;
+  width: 150px;
+}
 .productPictures {
-    display: block;
+    /* display: block;
     width: 120px;
     height: 150px;
     object-fit: cover;
     margin: 0 auto;
-    border: 1px solid black;
+    border: 1px solid black; */
+    display: none;
 }
 .productImgs {
-    height: 100%;
-    width: 100%;
+    display: none;
 }
 .page-numbers {
     margin-top: 10px;
