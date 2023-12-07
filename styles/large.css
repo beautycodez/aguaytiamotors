@@ -14,7 +14,7 @@
         display: flex;
         width: 100%;
         justify-content: space-between;
-        padding: 0px;
+        padding: 0px 50px;
     }
     .navBar ul li {
         list-style: none;
@@ -23,5 +23,34 @@
         color: white;
         text-decoration: none;
     }
-
+    .imagenes_marca {
+        display: flex;
+        max-width: 800px;
+        justify-content: space-around;
+        padding-bottom: 50px;
+    }
+    .imagenes_marca picture {
+        width: 500px;
+        
+    }
+    .imagenes_marca picture img {
+        width: 90%;
+        max-width: 500px;
+        
+    }
+    .valores {
+        gap: 100px;
+    }
+    .valores section {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+    }
+    .responsive-container {
+        gap:50px;
+        justify-content: space-around;
+      }
+    .responsive {
+        width:fit-content;
+      }
 }

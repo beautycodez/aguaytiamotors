@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Mono:ital@1&display=swap');
+
+h1, h2, h3, h4, h5, button {
+  font-family: "Poppins";
+}
+div, a, p {
+  font-family: "Roboto Mono";
+}
 .productos {
     display: block;
     width: 100%;
@@ -432,25 +440,15 @@ div.gallery a img {
   * {
     box-sizing: border-box;
   }
-  
+  .responsive-container {
+    display: flex;
+    width: 100vw;
+    flex-wrap: wrap;
+  }
   .responsive {
-    padding: 0 6px;
-    float: left;
-    width: 24.99999%;
-  }
-  
-  @media only screen and (max-width: 700px) {
-    .responsive {
-      width: 49.99999%;
-      margin: 6px 0;
-    }
-  }
-  
-  @media only screen and (max-width: 500px) {
-    .responsive {
       width: 100%;
     }
-  }
+  
   
   .clearfix:after {
     content: "";
