@@ -250,3 +250,38 @@ function myFunction() {
     hamBtn.classList.remove("sticky");
   }
 }
+
+// Slideshow de llantas
+
+let slideIndexn = 1;
+  showSlidesn(slideIndexn);
+
+  function plusSlidesn(n) {
+    showSlidesn(slideIndexn += n);
+  }
+
+  function showSlidesn(n) {
+    let i;
+    let slidesn = document.getElementsByClassName("mySlidesn");
+
+    if (n > slidesn.length) {
+      slideIndexn = 1;
+    }
+
+    if (n < 1) {
+      slideIndexn = slidesn.length;
+    }
+
+    // Oculta todos los conjuntos de imágenes
+    for (i = 0; i < slidesn.length; i++) {
+      slidesn[i].style.display = "none";
+    }
+
+    // Muestra el conjunto actual de imágenes
+    slidesn[slideIndexn - 1].style.display = "flex";
+  }
+
+  // Cambia automáticamente las imágenes cada 3000 milisegundos (3 segundos)
+  setInterval(function () {
+    plusSlidesn(1);
+  }, 5000);

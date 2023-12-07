@@ -235,6 +235,10 @@ main {
     margin-left: 20px;
     color: #2E2E94;
 }
+.titulo {
+    margin-left: 20px;
+    color: #2E2E94;
+}
 .imagenes_marca {
     display: block;
     text-align: center;
@@ -448,4 +452,59 @@ div.gallery a img {
     content: "";
     display: table;
     clear: both;
+  }
+
+
+
+
+
+
+  /* slideshow llantas */
+
+  #slideshow-container {
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+  }
+
+  /* Estilo para las imágenes en el slideshow */
+  .mySlidesn {
+    display: none;
+    width: 100%;
+  }
+   .slidepicture {
+    width: 100px;
+}
+  /* Estilo para el texto opcional que puedes agregar */
+  .text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
+  .prevn, .nextn {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+
+  .nextn {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prevn:hover, .nextn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
   }
